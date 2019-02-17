@@ -1,0 +1,21 @@
+[Falco Slippy Peppy Infinite HP]
+007F2324 000000FF
+007F2328 000000FF
+007F232C 000000FF
+
+[Have Hyper Laser]
+207F23D8 00000002
+
+[Infinite Lives]
+20685BE8 00000009
+
+[Unlimited Bombs by storm75x]
+2066A1F8 000000FF
+20813A14 000000FF
+
+[Max Gold Rings by storm75x]
+1066A4A4 000003E7
+1068204C 000003E7
+
+[Max Silver Rings by storm75x]
+10681F6C 000003E7
